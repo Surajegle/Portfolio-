@@ -28,7 +28,7 @@ html{
 img{
   height: 100px;
   width: 100px;
-  border: black 3px transparent;
+  
   border-radius: 10px;
   box-shadow: 5px 5px 10px  black;
 }
@@ -37,6 +37,9 @@ a{
   border: black 3px solid;
   height: 100px;
   width: 50px;
-  box-shadow: 5px 5px 10px  black;
+  
   text-decoration: none;
+}
+a:hover{
+  border: black 1px transparent;
 }
