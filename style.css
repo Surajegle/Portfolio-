@@ -7,7 +7,8 @@ html{
   
 }
 .navbar {
-  padding-left: 10px;
+  padding-left: 25px;
+  padding-bottum:10px;
   height: 50px;
   width: 300px;
   background-color: #acf8ffcf;
