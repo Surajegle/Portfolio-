@@ -43,5 +43,7 @@ a{
   text-decoration: none;
 }
 a:hover{
-  border: black 1px solid;
+  border: black 1px transparent;
+  border-radius:50px;
+  box-shadow: 3px 2px 10px black;
 }
