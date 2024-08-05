@@ -37,9 +37,9 @@ img{
 a{
   display:block;
   background-color: white;
-  
-  height: 50px;
-  width: 100px;
+  text-align:centre;
+  height: 30px;
+  width: 150px;
   
   text-decoration: none;
 }
